@@ -1,6 +1,3 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<!--
-**LuanMateus93/LuanMateus93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanMateus93)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luan+Mateus+Alchieri;I'm+19+years+old;I+from+Brasil,+SC;I+study+Science+Computer+at+IFC-Campus+Videira;Be+Welcome!+:%29)](https://git.io/typing-svg)
